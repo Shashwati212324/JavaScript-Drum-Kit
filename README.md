@@ -1,6 +1,7 @@
 # 🥁 Drum Kit
 
-This is a fun and interactive **Drum Kit** web project built using **HTML**, **CSS**, and **JavaScript**. Press keys on your keyboard to play drum sounds — complete with smooth animations and ripple effects to simulate real drum hits.
+This is a fun and interactive **Drum Kit** web project built using HTML, CSS, and JavaScript. 
+Press keys on your keyboard to play drum sounds. 
 
 ![Drum Kit Preview](../Screenshot.png)
  <!-- Optional: Add a preview image -->
